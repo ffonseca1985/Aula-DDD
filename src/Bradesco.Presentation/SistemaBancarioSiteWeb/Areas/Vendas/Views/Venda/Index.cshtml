@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SistemaBancarioSiteWeb.Areas.Vendas.Models.VendaViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Relatório</h2>
+
+<p>
+    @Html.ActionLink("Comprar um produto Financeiro", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdContaCorrente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Valor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdContaCorrente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Valor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+    </tr>
+}
+
+</table>

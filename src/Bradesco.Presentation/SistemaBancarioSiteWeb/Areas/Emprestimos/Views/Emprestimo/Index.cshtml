@@ -1,0 +1,40 @@
+﻿@model IEnumerable<SistemaBancarioSiteWeb.Areas.Emprestimos.Models.EmprestimoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Relatório</h2>
+
+<p>
+    @Html.ActionLink("Novo Emprestimo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Valor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdContaCorrente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Valor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdContaCorrente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+    </tr>
+}
+
+</table>

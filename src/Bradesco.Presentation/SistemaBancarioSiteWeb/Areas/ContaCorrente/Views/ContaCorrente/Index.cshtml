@@ -1,0 +1,30 @@
+﻿@model IEnumerable<SistemaBancarioSiteWeb.Areas.ContaCorrente.Models.ContaCorrenteViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Relatório</h2>
+
+
+<div class="jumbotron col-lg-4">
+    @Html.ActionLink("Ver Saldo", "Detail")
+</div>
+
+<div class="jumbotron col-lg-4">
+    @Html.ActionLink("Criar C/C", "Create")
+</div>
+
+<div class="jumbotron col-lg-4">
+    @Html.ActionLink("Sacar", "Sacar")
+</div>
+
+<div class="jumbotron col-lg-4">
+    @Html.ActionLink("Depositar", "Depositar")
+</div>
+
+<div class="jumbotron col-lg-4">
+    @Html.ActionLink("Encerrar", "Encerrar")
+</div>
+
+<div class="clearfix"></div>

@@ -1,0 +1,16 @@
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\bin\Debug\MovimentacoesGeraisQueryStack.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\bin\Debug\MovimentacoesGeraisQueryStack.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.csproj.CoreCompileInputs.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_Alunos\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\bin\Debug\MovimentacoesGeraisQueryStack.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_Alunos\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\bin\Debug\MovimentacoesGeraisQueryStack.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_Alunos\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.csproj.CoreCompileInputs.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_Alunos\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_Alunos\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_v1.2\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\bin\Debug\MovimentacoesGeraisQueryStack.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_v1.2\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\bin\Debug\MovimentacoesGeraisQueryStack.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_v1.2\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.csproj.CoreCompileInputs.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_v1.2\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_v1.2\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario_v1.2\src\Bradesco.ContaCorrente\MovimentacoesGeraisQueryStack\obj\Debug\MovimentacoesGeraisQueryStack.csprojResolveAssemblyReference.cache

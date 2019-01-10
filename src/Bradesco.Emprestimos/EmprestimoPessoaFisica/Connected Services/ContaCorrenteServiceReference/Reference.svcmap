@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e0d8b2f6-d199-470a-a0cf-f08ee224778f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ContaCorrenteService.xsd" MetadataType="Schema" ID="97dbc449-375e-4bbd-99b8-0210bfda6399" SourceId="1" SourceUrl="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ContaCorrenteService1.xsd" MetadataType="Schema" ID="6e0bad82-7a4f-4e86-b9fa-ceb8e64dde01" SourceId="1" SourceUrl="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ContaCorrenteService2.xsd" MetadataType="Schema" ID="9eaf5fda-4d3a-40b0-9e0e-f4daea0dd0f3" SourceId="1" SourceUrl="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ContaCorrenteService.disco" MetadataType="Disco" ID="f398a666-ca21-4a61-9ee5-8e2e2b0c791b" SourceId="1" SourceUrl="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc?disco" />
+    <MetadataFile FileName="ContaCorrenteService.wsdl" MetadataType="Wsdl" ID="d655d58f-1c17-4248-87e2-b1cee3ca4eb6" SourceId="1" SourceUrl="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

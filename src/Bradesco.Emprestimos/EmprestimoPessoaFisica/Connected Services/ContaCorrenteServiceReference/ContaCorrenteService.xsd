@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/ContaCorrenteServiceService.ContaCorrente" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ContaCorrenteServiceService.ContaCorrente" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:50565/ContaCorrente/ContaCorrenteService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="ContaCorrente">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IdCliente" type="ser:guid" />
+      <xs:element minOccurs="0" name="IdContaCorrente" type="ser:guid" />
+      <xs:element minOccurs="0" name="NumeroAgencia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NumeroConta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Saldo" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ContaCorrente" nillable="true" type="tns:ContaCorrente" />
+</xs:schema>

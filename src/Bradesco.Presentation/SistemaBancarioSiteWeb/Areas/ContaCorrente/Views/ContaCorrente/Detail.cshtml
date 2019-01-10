@@ -1,0 +1,68 @@
+﻿@model SistemaBancarioSiteWeb.Areas.ContaCorrente.Models.ContaCorrenteViewModel
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>Detalhes</h2>
+
+<div class="container">
+
+    @using (Html.BeginForm("Detail", "ContaCorrente", FormMethod.Get, new { @class = "form-horizontal" }))
+    {
+        <label>Código C/C:</label> <input type="text" class="form-control" name="idContaCorrente" />
+        <button class="btn btn-default" type="submit">
+            Buscar C/C
+        </button>
+    }
+
+    @if (Model != null)
+    {
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.IdContaCorrente)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.IdContaCorrente)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.IdCliente)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.IdCliente)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.NumeroAgencia)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NumeroAgencia)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.NumeroConta)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NumeroConta)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Saldo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Saldo)
+            </dd>
+
+        </dl>
+    }
+</div>
+
+<p>
+    @Html.ActionLink("Voltar", "Index")
+</p>

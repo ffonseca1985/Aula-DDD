@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SistemaBancarioSiteWeb.Areas.Acessos.Models.ClienteViewModel>
+
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Relatório</h2>
+
+<p>
+    @Html.ActionLink("Criar novo usuário", "Create")
+</p>
+<table class="table table-condensed table-bordered table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdCliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cpf)
+        </td>
+    </tr>
+}
+
+</table>

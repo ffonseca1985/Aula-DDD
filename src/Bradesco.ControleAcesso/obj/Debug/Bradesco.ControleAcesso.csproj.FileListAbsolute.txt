@@ -1,0 +1,8 @@
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\bin\Debug\Bradesco.ControleAcesso.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\bin\Debug\Bradesco.ControleAcesso.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\bin\Debug\SharedKernel.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\bin\Debug\SharedKernel.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\obj\Debug\Bradesco.ControleAcesso.csprojResolveAssemblyReference.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\obj\Debug\Bradesco.ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\obj\Debug\Bradesco.ControleAcesso.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Testes\Bradesco.GestaoBancario\src\Bradesco.ControleAcesso\obj\Debug\Bradesco.ControleAcesso.pdb

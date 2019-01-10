@@ -1,0 +1,12 @@
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\bin\Debug\Vendas.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\bin\Debug\Vendas.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\bin\Debug\CQRSlite.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\bin\Debug\CQRSlite.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\obj\Debug\Vendas.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoProdutosFinanceiros\src\Vendas\obj\Debug\Vendas.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoBancario\src\Bradesco.ProdutosFinanceiros\Vendas\bin\Debug\Vendas.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoBancario\src\Bradesco.ProdutosFinanceiros\Vendas\bin\Debug\Vendas.pdb
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoBancario\src\Bradesco.ProdutosFinanceiros\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoBancario\src\Bradesco.ProdutosFinanceiros\Vendas\obj\Debug\Vendas.dll
+C:\Cursos\DDD\CursoDDD_Turma5\Bradesco.GestaoBancario\src\Bradesco.ProdutosFinanceiros\Vendas\obj\Debug\Vendas.pdb
